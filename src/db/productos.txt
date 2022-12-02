@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "tomates",
+    "price": 100,
+    "thumbnail": "https://www.comedera.com/wp-content/uploads/2022/04/Papas-rusticas-shutterstock_2022241940.jpg"
+  },
+  {
+    "id": 2,
+    "title": "papitas",
+    "price": 200,
+    "thumbnail": "https://www.comedera.com/wp-content/uploads/2022/04/Papas-rusticas-shutterstock_2022241940.jpg"
+  },
+  {
+    "id": 3,
+    "title": "tomates",
+    "price": 100,
+    "thumbnail": "https://www.comedera.com/wp-content/uploads/2022/04/Papas-rusticas-shutterstock_2022241940.jpg"
+  },
+  {
+    "title": "papitas",
+    "price": 200,
+    "thumbnail": "https://www.comedera.com/wp-content/uploads/2022/04/Papas-rusticas-shutterstock_2022241940.jpg",
+    "id": 4
+  },
+  {
+    "title": "tomates",
+    "price": 100,
+    "thumbnail": "https://www.comedera.com/wp-content/uploads/2022/04/Papas-rusticas-shutterstock_2022241940.jpg",
+    "id": 5
+  },
+  {
+    "title": "123",
+    "price": "123",
+    "thumbnail": "123",
+    "id": 6
+  }
+]
